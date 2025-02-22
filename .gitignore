@@ -1,3 +1,5 @@
 node_module
 .env
 index2.js
+vercel.json
+.vercel
