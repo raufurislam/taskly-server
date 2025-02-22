@@ -3,3 +3,4 @@ node_module
 index2.js
 vercel.json
 .vercel
+.env
